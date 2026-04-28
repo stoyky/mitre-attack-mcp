@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stoyky-mitre-attack-mcp-badge.png)](https://mseep.ai/app/stoyky-mitre-attack-mcp)
+
 <h1 align="center">
   <br>
   MITRE ATT&CK MCP Server
